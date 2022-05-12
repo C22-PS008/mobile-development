@@ -14,7 +14,7 @@
 
     <item
         android:id="@+id/menu_artikel"
-        android:title="My Item"
+        android:title="Artikel"
         android:icon="@drawable/ic_article"/>
 
     <item
